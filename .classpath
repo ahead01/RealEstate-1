@@ -41,5 +41,6 @@
 	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-4.3.12.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-websocket-4.3.12.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-ws.jar"/>
+	<classpathentry kind="lib" path="/Users/austindase/installs/utilities/JDBC/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
